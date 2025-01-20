@@ -17,16 +17,22 @@ Fun gameplay: Enjoy the classic rules of Tic-Tac-Toe.
 4. Run the game using the following command:
     python tic_tac_toe.py
 5. Follow the prompts:
-- Players take turns entering their moves by selecting a position on the 3x3 grid (1-9).
-- The board positions are numbered as follows:
-  
-  1 | 2 | 3
-  _________
-  4 | 5 | 6
-  _________
-  7 | 8 | 9
-  
+- Players take turns entering their moves by selecting a position on the 3x3 grid (1-9).  
 6. The game ends when:
 - A player gets three marks in a row (horizontally, vertically, or diagonally).
 - The board is full, resulting in a draw.
 7. The winner (or a draw) will be announced, and you'll have the option to play again.
+
+# Requirements
+
+- Python 3.x or above.
+- A terminal/console to run the program.
+
+# Customization
+The game can be enhanced or customized:
+- Add an AI opponent to play against the computer.
+- Modify the game board size for more complex gameplay.
+- Add color-coded outputs for better visuals.
+
+
+Enjoy the game! 🎮
