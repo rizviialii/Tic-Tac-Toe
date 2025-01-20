@@ -18,13 +18,14 @@ Fun gameplay: Enjoy the classic rules of Tic-Tac-Toe.
     python tic_tac_toe.py
 5. Follow the prompts:
 - Players take turns entering their moves by selecting a position on the 3x3 grid (1-9).
-- The board positions are numbered as follows
-
-   1 | 2 | 3
-  -----------
-   4 | 5 | 6
-  -----------
-   7 | 8 | 9
+- The board positions are numbered as follows:
+  
+  1 | 2 | 3
+  _________
+  4 | 5 | 6
+  _________
+  7 | 8 | 9
+  
 6. The game ends when:
 - A player gets three marks in a row (horizontally, vertically, or diagonally).
 - The board is full, resulting in a draw.
